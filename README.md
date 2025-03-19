@@ -1,0 +1,2 @@
+# Spotify-Clone
+ I created a Spotify Clone UI in Flutter, including the Home Screen, Search Screen, and Library Screen. The Home Screen displays playlists and recommended music with a clean, modern design. The Search Screen allows users to explore songs, albums, and artists with an intuitive layout. The Library Screen organizes saved songs and playlists for easy access. The UI is fully responsive, featuring dark mode styling and smooth animations, making it visually appealing and user-friendly. 🚀🎵
